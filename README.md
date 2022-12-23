@@ -22,6 +22,7 @@
 - (주)여보야 - 플랫폼사업부 개발팀(2022.10~2022.12)
 
 # 💻Skills
+
 ### Languages & Framework
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
