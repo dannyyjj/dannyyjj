@@ -19,7 +19,7 @@
 
 # 💼Career
 
-- 여보야 적을까 말까
+- (주)여보야 - 플랫폼사업부 개발팀(2022.10~2022.12)
 
 # 💻Skills
 ### Languages & Framework
