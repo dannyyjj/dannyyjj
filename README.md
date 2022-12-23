@@ -18,9 +18,16 @@
 
 # 💼career
 
-- (주)여보야 - 플랫폼사업부 개발팀(인턴 3개월)
+- 여보야 적을까 말까
 
 # 💻Skills
-
-![Java](https://img.shields.io/badge/java-444444?style=for-the-badge&logo=java)
+## Languages & Framework
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+## Tools
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
