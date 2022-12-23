@@ -20,4 +20,4 @@
 - 여보야 적을까 말까
 
 # 💻Skills
-![Java](https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java)
+![Java](https://img.shields.io/badge/java-444444?style=for-the-badge&logo=java)
