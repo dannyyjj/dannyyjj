@@ -15,3 +15,9 @@
 - 인프런 - 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(김영한)
 - 인프런 - 모든 개발자를 위한 HTTP 웹 기본 지식(김영한)
 - 교재 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱)
+
+# 💼career
+- 여보야 적을까 말까
+
+# 💻Skills
+![Java](https://img.shields.io/badge/Java-444444?style=for-the-badge&logo=Java)
