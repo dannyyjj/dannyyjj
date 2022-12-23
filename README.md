@@ -21,3 +21,4 @@
 
 # 💻Skills
 ![Java](https://img.shields.io/badge/java-444444?style=for-the-badge&logo=java)
+![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
