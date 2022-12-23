@@ -1,11 +1,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Danny's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
 
-# Hi there 👋
+# 👋Hi there
 <span>간단한 자기소개 어쩌고</span></br>
 <span>열심히 어쩌고</span></br>
 <span>발전 어쩌고</span></br>
-<span>성장 어쩌고</span>
+<span>성장 어쩌고</span></br>
+<span>자신감 어쩌고</span>
 
 # ✍Study
 
