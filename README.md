@@ -1,7 +1,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Danny's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
 
-# <img src="https://user-images.githubusercontent.com/101934636/209270695-8e4bce13-120b-4d3a-a9f5-0a78760cdd0c.png"/ style="width:5%">I'm
+# <img src="https://user-images.githubusercontent.com/101934636/209270695-8e4bce13-120b-4d3a-a9f5-0a78760cdd0c.png"/ style="width:5px">I'm
 
 - 저는 정대현입니다.
 - 저는 모든 일에 최선을 다하며 열심히 합니다.
