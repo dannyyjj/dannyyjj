@@ -2,11 +2,11 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Danny's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
 
 # 👋Hi there
-<span>간단한 자기소개 어쩌고</span></br>
-<span>열심히 어쩌고</span></br>
-<span>발전 어쩌고</span></br>
-<span>성장 어쩌고</span></br>
-<span>자신감 어쩌고</span>
+
+- 저는 정대현입니다.
+- 저는 모든일에 최선을 다하며 열심히 합니다.
+- 저는 계속해서 성장하고 발전하고 있습니다.
+- 저는 항상 자신감있고 자만하지는 않습니다.
 
 # ✍Study
 
@@ -17,8 +17,10 @@
 - 교재 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱)
 
 # 💼career
-- 여보야 적을까 말까
+
+- (주)여보야 - 인턴 3개월
 
 # 💻Skills
+
 ![Java](https://img.shields.io/badge/java-444444?style=for-the-badge&logo=java)
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
