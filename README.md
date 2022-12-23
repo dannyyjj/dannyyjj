@@ -21,12 +21,12 @@
 - 여보야 적을까 말까
 
 # 💻Skills
-## Languages & Framework
+<h2>Languages & Framework</h2>
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
-## Tools
+<h2>Tools</h2>
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 ![React](https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react)
