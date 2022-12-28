@@ -17,7 +17,7 @@
 - 유튜브 - 제대로 파는 Git & GitHub - 깃 끝.장.내.기(얄팍한 코딩사전)
 - 유튜브 - 깃, 깃허브 제대로 배우기(드림코딩)
 - 교재 - 스프링 부트와 AWS로 혼자 구현하는 웹 서비스(이동욱)
-<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+
 # 💼Career
 
 - (주)여보야 - 플랫폼사업부 개발팀 인턴(2022.10~2022.12)
