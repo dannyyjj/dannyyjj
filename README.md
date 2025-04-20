@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 **dannyyjj/dannyyjj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,6 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Welcom&fontSize=90&fontColor=141A72&fontAlignY=39&desc=Danny's%20Github%20Profile&descAlignY=57&descAlign=57.5" />
 
